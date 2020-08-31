@@ -13,6 +13,6 @@ Installs some themes and icon packs and a couple common applications.
 
 theme: https://github.com/vinceliuice/Mojave-gtk-theme
 
-icons: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/#papirus-installer
+icons: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 
 license: gplv3
