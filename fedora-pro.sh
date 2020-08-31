@@ -42,7 +42,7 @@ cp ./activities.svg ./$theme_folder/src/assets/gnome-shell/assets-dark/activitie
 cp ./activities-light.svg ./$theme_folder/src/assets/gnome-shell/assets-light/activities/activities-fedora.svg
 cp ./fuji-san-blur.png ./$theme_folder/src/assets/gnome-shell/assets-light/background.png
 cp ./fuji-san-blur.png ./$theme_folder/src/assets/gnome-shell/assets-dark/background.png
-sudo ./$theme_folder/install.sh -o standard -a standard -s standard -i fedora --gdm
+./$theme_folder/install.sh -o standard -a standard -s standard -i fedora
 
 
 # enable extensions
